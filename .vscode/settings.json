@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "C:/Users/gusta/OneDrive/Documentos/Codes/SextoSemestre/QualitasSetup/AWS/WorkshopCPP/ccpSample/certificates/localhost.pem",
+      "key": "C:/Users/gusta/OneDrive/Documentos/Codes/SextoSemestre/QualitasSetup/AWS/WorkshopCPP/ccpSample/certificates/localhost.key",
+      "passphrase": "!qUALITAS#TC3005B"
+    }
+  }
